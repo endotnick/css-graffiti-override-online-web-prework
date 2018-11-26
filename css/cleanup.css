@@ -1,5 +1,3 @@
-#wall .tag-1, #wall .tag-1 + #tag-2,
-#wall #tag-2 + #tag-3, #wall .parent #tag-4,
-#wall .parent + .parent #tag-5 {
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5 {
   display :none
 }
